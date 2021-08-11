@@ -1,0 +1,6 @@
+C:\Users\simlab\RiderProjects\MilitaryRank\MilitaryRank\bin\Debug\MilitaryRank.exe
+C:\Users\simlab\RiderProjects\MilitaryRank\MilitaryRank\bin\Debug\MilitaryRank.pdb
+C:\Users\simlab\RiderProjects\MilitaryRank\MilitaryRank\obj\Debug\MilitaryRank.csprojAssemblyReference.cache
+C:\Users\simlab\RiderProjects\MilitaryRank\MilitaryRank\obj\Debug\MilitaryRank.csproj.CoreCompileInputs.cache
+C:\Users\simlab\RiderProjects\MilitaryRank\MilitaryRank\obj\Debug\MilitaryRank.exe
+C:\Users\simlab\RiderProjects\MilitaryRank\MilitaryRank\obj\Debug\MilitaryRank.pdb
